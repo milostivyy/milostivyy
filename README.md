@@ -1,6 +1,5 @@
-Hii
 
-https://holopin.io/@milostivyy
+Holopin Badges-https://holopin.io/@milostivyy
 
 <summary>📈 My GitHub Stats</summary>
 
